@@ -153,7 +153,7 @@ We welcome contributions. Suggested workflow:
 See CONTRIBUTING.md for more details (if present).
 
 ## License
-Specify your license (e.g., MIT). Add a LICENSE file with the full terms.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
 For questions, reach out to the maintainers or open an issue in this repository.
