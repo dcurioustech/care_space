@@ -3,15 +3,15 @@
 ## Phase 1: Foundation & Design System (Week 1-2)
 
 ### Setup & Configuration
-- [ ] **ENV-001** Initialize React + TypeScript project with Vite
-- [ ] **ENV-002** Configure Tailwind CSS with custom purple theme
-- [ ] **ENV-003** Install and configure shadcn/ui components
-- [ ] **ENV-004** Setup React Router for navigation
-- [ ] **ENV-005** Configure ESLint, Prettier, and TypeScript strict mode
-- [ ] **ENV-006** Setup project folder structure and component organization
+- [x] **ENV-001** Initialize React + TypeScript project with Vite
+- [x] **ENV-002** Configure Tailwind CSS with custom purple theme
+- [x] **ENV-003** Install and configure shadcn/ui components
+- [x] **ENV-004** Setup React Router for navigation
+- [x] **ENV-005** Configure ESLint, Prettier, and TypeScript strict mode
+- [x] **ENV-006** Setup project folder structure and component organization
 
 ### Core Design System
-- [ ] **UI-001** Create design tokens and custom Tailwind config
+- [x] **UI-001** Create design tokens and custom Tailwind config
 - [ ] **UI-002** Build base Button component with variants
 - [ ] **UI-003** Build Input, Select, and form control components
 - [ ] **UI-004** Create Card component with hover states
